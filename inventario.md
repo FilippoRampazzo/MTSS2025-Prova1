@@ -3,3 +3,5 @@
 
 processori
 schede madri in file schede_madri.md
+
+Elettronica Padovana
